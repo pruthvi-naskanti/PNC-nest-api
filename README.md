@@ -2,7 +2,8 @@
 
 ## Links
 -[App on Heroku](https://github.com/pruthvi-naskanti/PNC-nest-api)
--[]()
+
+-[GitHub](https://github.com/pruthvi-naskanti/PNC-nest-api)
 
 ## Description
 
